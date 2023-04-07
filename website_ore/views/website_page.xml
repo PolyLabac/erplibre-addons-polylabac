@@ -26,15 +26,14 @@
                                                 <font style="font-size: 24px;">-</font>
                                                 <font style="font-size: 24px;" class="text-beta">Recevoir</font>
                                                 <font style="font-size: 24px;">-</font>
-                                                <font style="font-size: 24px;" class="text-delta">Échanger</font>
-                                                <font style="font-size: 24px;">, sans devoir
-                                                    sortir son portefeuille.
+                                                <font style="font-size: 24px;" class="text-epsilon">Échanger</font>
+                                                <font style="font-size: 24px;">, en toute simplicité.
                                                 </font>
                                             </h4>
                                             <h4 class="o_h4">
                                                 <font
                                                     style="font-size: 24px;"
-                                                >Plateforme d'échange de temps, inscription simple, rapide et gratuite.
+                                                >Plateforme d'échange de temps, inscription facile, rapide et gratuite.
                                                 </font>
                                             </h4>
                                             <h4 class="o_h4">
@@ -49,7 +48,20 @@
                                     <div class="row">
                                         <div class="col-lg-4 s_col_no_bgcolor text-center pt16 pb16" data-name="Box">
                                             <div class="card bg-alpha">
-                                                <h4 class="card-header">OFFRIR</h4>
+                                                <div class="text-center" style="background-color: white">
+                                                    <img
+                                                        class="img-fluid o_we_custom_image"
+                                                        src="/web/image/website_ore.ir_attachment_o_svg/O.svg"
+                                                        data-original-title=""
+                                                        title=""
+                                                        aria-describedby="tooltip729222"
+                                                        style="width: 50%;"
+                                                    />
+                                                </div>
+                                                <h4
+                                                    class="card-header text-alpha"
+                                                    style="background-color: white"
+                                                >OFFRIR</h4>
                                                 <div class="card-body text-center">
                                                     <h2 class="card-title">
                                                         <img
@@ -65,22 +77,21 @@
                                                 <ul class="list-group list-group-flush">
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Offrir de son temps
                                                     </li>
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Offrir un service
                                                     </li>
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Offrir un accompagnement
                                                     </li>
-                                                    <li class="list-group-item" style="height: 60.25px;">Offrir un cours
+                                                    <li class="list-group-item" style="height: 75.02px;">Offrir un cours
                                                     </li>
-                                                    <li class="list-group-item" style="height: 60.25px;">Etc.</li>
                                                 </ul>
                                                 <div class="card-footer">
                                                     <p>
@@ -88,12 +99,13 @@
                                                         </i>
                                                     </p>
                                                     <a
-                                                        href="/participer#!?state=init.pos"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        href="/participer#!?state=init.pos.single"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-alpha"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip869209"
                                                         groups="base.group_user,base.group_portal"
+                                                        style="background-color: white;"
                                                     >OFFRIR
                                                     </a>
                                                 </div>
@@ -101,7 +113,20 @@
                                         </div>
                                         <div class="col-lg-4 s_col_no_bgcolor text-center pt16 pb0" data-name="Box">
                                             <div class="card bg-beta">
-                                                <h4 class="card-header">RECEVOIR</h4>
+                                                <div class="text-center" style="background-color: white">
+                                                    <img
+                                                        class="img-fluid o_we_custom_image"
+                                                        src="/web/image/website_ore.ir_attachment_r_svg/R.svg"
+                                                        data-original-title=""
+                                                        title=""
+                                                        aria-describedby="tooltip729222"
+                                                        style="width: 50%;"
+                                                    />
+                                                </div>
+                                                <h4
+                                                    class="card-header text-beta"
+                                                    style="background-color: white"
+                                                >RECEVOIR</h4>
                                                 <div class="card-body text-center">
                                                     <h2 class="card-title">
                                                         <img
@@ -117,25 +142,24 @@
                                                 <ol class="list-group list-group-flush">
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Recevoir du temps à partir d'une offre
                                                     </li>
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Recevoir un service
                                                     </li>
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Recevoir un accompagnement
                                                     </li>
                                                     <li
                                                         class="list-group-item"
-                                                        style="height: 60.25px;"
+                                                        style="height: 75.02px;"
                                                     >Recevoir un cours
                                                     </li>
-                                                    <li class="list-group-item" style="height: 60.25px;">Etc.</li>
                                                 </ol>
                                                 <div class="card-footer">
                                                     <p>
@@ -144,12 +168,13 @@
                                                         </i>
                                                     </p>
                                                     <a
-                                                        href="/participer#!?state=init.pds"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        href="/participer#!?state=init.pds.single"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-beta"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip297156"
                                                         groups="base.group_user,base.group_portal"
+                                                        style="background-color: white;"
                                                     >RECEVOIR
                                                     </a>
                                                 </div>
@@ -157,7 +182,20 @@
                                         </div>
                                         <div class="col-lg-4 s_col_no_bgcolor text-center pt16 pb16" data-name="Box">
                                             <div class="card bg-epsilon">
-                                                <h4 class="card-header">ECHANGER</h4>
+                                                <div class="text-center" style="background-color: white">
+                                                    <img
+                                                        class="img-fluid o_we_custom_image"
+                                                        src="/web/image/website_ore.ir_attachment_e_svg/E.svg"
+                                                        data-original-title=""
+                                                        title=""
+                                                        aria-describedby="tooltip729222"
+                                                        style="width: 50%;"
+                                                    />
+                                                </div>
+                                                <h4
+                                                    class="card-header text-epsilon"
+                                                    style="background-color: white"
+                                                >ECHANGER</h4>
                                                 <div class="card-body text-center">
                                                     <h2 class="card-title">
                                                         <img
@@ -197,11 +235,12 @@
                                                     </p>
                                                     <a
                                                         href="/participer#!?state=init.saa"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-epsilon"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip351000"
                                                         groups="base.group_user,base.group_portal"
+                                                        style="background-color: white;"
                                                     >ECHANGER
                                                     </a>
                                                 </div>
@@ -255,17 +294,20 @@
                                             <div class="item" groups="base.group_user,base.group_portal">
                                                 <h3>Consulter les offres
                                                 </h3>
-                                                <p groups="base.group_user,base.group_portal">Magasiner les offres avant de s'inscrire
+                                                <p
+                                                    groups="base.group_user,base.group_portal"
+                                                >Magasiner les offres avant de s'inscrire
                                                 </p>
                                                 <p>{{ nb_offre_service }} offres dans la communauté</p>
                                                 <div class="s_btn text-center pt16 pb16" data-name="Buttons">
                                                     <a
                                                         href="/explorer"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-alpha"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip51707"
-                                                    >Parcourir
+                                                        style="background-color: white;"
+                                                    >PARCOURIR
                                                     </a>
                                                 </div>
                                             </div>
@@ -281,11 +323,12 @@
                                                 <div class="s_btn text-center pt16 pb16" data-name="Buttons">
                                                     <a
                                                         href="/communaute"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-beta"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip376413"
-                                                    >Découvrir
+                                                        style="background-color: white;"
+                                                    >DÉCOUVRIR
                                                     </a>
                                                 </div>
                                             </div>
@@ -298,11 +341,12 @@
                                                 <div class="s_btn text-center pt16 pb16" data-name="Buttons">
                                                     <a
                                                         href="/aide"
-                                                        class="btn btn-outline-delta rounded-circle btn-sm"
+                                                        class="btn btn-outline-black rounded-circle btn-sm text-epsilon"
                                                         data-original-title=""
                                                         title=""
                                                         aria-describedby="tooltip992072"
-                                                    >Aide
+                                                        style="background-color: white;"
+                                                    >AIDE
                                                     </a>
                                                 </div>
                                             </div>
